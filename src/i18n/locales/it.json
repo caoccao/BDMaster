@@ -185,7 +185,7 @@
   "about": {
     "tagline": "Una GUI desktop moderna per analizzare i dischi Blu-ray",
     "author": "Autore",
-    "github": "Github"
+    "github": "GitHub"
   },
   "update": {
     "newVersionAvailable": "È disponibile una nuova versione {{version}}.",
