@@ -2,7 +2,7 @@
   "toolbar": {
     "addDisc": "Aggiungi cartella disco",
     "clear": "Cancella (Ctrl + Q)",
-    "settings": "Impostazioni",
+    "settings": "Impostazioni (F10)",
     "about": "Info programma",
     "addDisk": "Aggiungi disco",
     "addDiskFolder": "Aggiungi cartella disco"
@@ -81,8 +81,8 @@
     "openInMpcHc": "Apri in MPC-HC",
     "openInMpcHcFailed": "Impossibile aprire MPC-HC: {{message}}",
     "mpcHcNotConfigured": "MPC-HC non è configurato. Configura nelle Impostazioni il percorso di MPC-HC.",
-    "outputPath": "Percorso di output",
-    "changeOutputPathTooltip": "Fai clic per modificare il percorso di output.",
+    "outputPath": "Percorso destinazione",
+    "changeOutputPathTooltip": "Per modificare il percorso destinazione clic qui .",
     "actions": "Azioni",
     "generateReport": "Genera rapporto",
     "generateQuickSummary": "Riepilogo rapido",
