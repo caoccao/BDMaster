@@ -82,7 +82,7 @@
     "openInMpcHcFailed": "Impossibile aprire MPC-HC: {{message}}",
     "mpcHcNotConfigured": "MPC-HC non è configurato. Configura nelle Impostazioni il percorso di MPC-HC.",
     "outputPath": "Percorso destinazione",
-    "changeOutputPathTooltip": "Per modificare il percorso destinazione clic qui .",
+    "changeOutputPathTooltip": "Per modificare il percorso destinazione clic qui.",
     "actions": "Azioni",
     "generateReport": "Genera rapporto",
     "generateQuickSummary": "Riepilogo rapido",
