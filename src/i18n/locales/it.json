@@ -125,7 +125,7 @@
     "reportCopied": "Rapporto copiato negli appunti.",
     "savedTo": "Salvato in {{path}}",
     "outputDirNotWritable": "La cartella di output non è scrivibile: {{path}}",
-    "stream": "Flusso",
+    "stream": "Stream",
     "index": "Indice",
     "id": "ID",
     "time": "Tempo",
@@ -201,7 +201,7 @@
     "daily": "Ogni giorno",
     "weekly": "Ogni settimana",
     "monthly": "Ogni mese",
-    "outputFileTemplate": "Modello file di output",
+    "outputFileTemplate": "Modello file destinazione",
     "placeholderVariables": "Variabili segnaposto:"
   },
   "about": {
