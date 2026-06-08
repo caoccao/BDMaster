@@ -23,7 +23,7 @@
     "introBDMaster": "Trascina in questa finestra una cartella del disco (la cartella che contiene BDMV/) o un file ISO, o usa i pulsanti 'Aggiungi disco' e 'Aggiungi cartella disco'. Ogni disco si apre in una scheda separata con informazioni dettagliate su playlist e stream.",
     "introBetterMediaInfo": "Analizza qualsiasi file multimediale con un'interfaccia rapida e moderna. Sfoglia a colpo d'occhio stream, proprietà e metadati di tracce video, audio, immagini e sottotitoli.",
     "introBatchMkvExtract": "Estrai contemporaneamente da molti file .mkv tracce, capitoli e allegati. Un'interfaccia ottimizzata per il batch basata su mkvextract di MKVToolNix.",
-    "viewOnGithub": "Visualizza in GitHub",
+    "viewOnGithub": "Info (GitHub)",
     "emptyHint": "Suggerimento: per analizzarla trascina in qualsiasi punto una cartella Blu-ray o un ISO.",
     "addDisc": "Aggiungi cartella disco",
     "scanning": "Analisi di {{path}}…",
