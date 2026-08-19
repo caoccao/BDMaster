@@ -127,7 +127,7 @@
     "scanCompleted": "Analisi completata",
     "scanning": "Analisi {{file}}…",
     "scanFailed": "Analisi non riuscita: {{message}}",
-    "scanFileErrors": "Analisi completata con {{count}} errore/i di file:\n{{details}}",
+    "scanFileErrors": "Scansione completata con {{count}} errore/i file:\n{{details}}",
     "elapsed": "Trascorso",
     "remaining": "Rimanente",
     "reportCopied": "Rapporto copiato negli appunti.",
